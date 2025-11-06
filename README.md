@@ -1,4 +1,4 @@
-Core Component
+Core Component TechniSat
 ==============
 
 The Core component is the e-commerce core for Shopware. It includes an administrative API in PHP and via Rest.
